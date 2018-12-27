@@ -10,7 +10,7 @@ namespace CA2_ElephantMovements_wave
     /// <summary>
     /// класс для хранения точки для посещения и шага
     /// </summary>
-    class PointWithStep
+    public class PointWithStep
     {
         /// <summary>
         /// точка и методы аксессоры для координат
