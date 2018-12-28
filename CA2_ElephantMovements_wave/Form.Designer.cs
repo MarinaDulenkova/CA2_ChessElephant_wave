@@ -114,8 +114,10 @@
             this.ClientSize = new System.Drawing.Size(575, 389);
             this.Controls.Add(this.gbControls);
             this.Controls.Add(this.pbField);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "fmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Elephant\'s shortest way: wave algorythm";
             ((System.ComponentModel.ISupportInitialize)(this.pbField)).EndInit();
             this.gbControls.ResumeLayout(false);
