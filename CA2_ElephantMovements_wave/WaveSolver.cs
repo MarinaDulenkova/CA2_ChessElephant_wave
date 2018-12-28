@@ -62,7 +62,7 @@ namespace CA2_ElephantMovements_wave
             while ((x >= 0) && (x < field.FieldSize) && (y >= 0) && (y < field.FieldSize) && (field.GetField()[x, y].CellType != FieldCell.FieldCellType.WALL))
             {
                 var cell = field.GetField()[x, y];
-                //если ячейку уже посетили или собираемся посетить
+                //если ячейку еще не посещали и не собирались посетить
                 if (!cell.IsVisited && (cell.Step == 0))
                 {
                     cellsToVisit.Add(new Point(x, y));
@@ -118,7 +118,7 @@ namespace CA2_ElephantMovements_wave
                     p = history[p.X, p.Y];
                     path.Add(new PointWithStep(p, field.GetField()[p.X, p.Y].Step));
                 }
-                //путь слегка перевернут
+                //путь перевернут
                 path.Reverse();
                 //убираем первую ячейку из пути
                 path.RemoveAt(0);
