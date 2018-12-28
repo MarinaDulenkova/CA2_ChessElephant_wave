@@ -1,0 +1,10 @@
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\bin\Debug\CA2_ElephantMovements_wave.exe.config
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\bin\Debug\CA2_ElephantMovements_wave.exe
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\bin\Debug\CA2_ElephantMovements_wave.pdb
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.csprojAssemblyReference.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.fmMain.resources
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.Properties.Resources.resources
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.csproj.GenerateResource.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.csproj.CoreCompileInputs.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.exe
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA2_ElephantMovements_wave\CA2_ElephantMovements_wave\obj\Debug\CA2_ElephantMovements_wave.pdb
